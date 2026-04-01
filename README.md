@@ -1,3 +1,9 @@
+## ALISeg
+A Perception-Oriented Lightweight Framework for Instantaneous Shoreline Extraction of Alluvial Islands from UAV Remote Sensing Imagery
+
+## Description
+This study develops a perception-oriented lightweight semantic segmentation framework, termed ALISeg, specifically designed for instantaneous shoreline extraction of alluvial islands from UAV imagery. Rather than relying on generic segmentation architectures, ALISeg explicitly aligns its design with task-specific perceptual requirements by jointly modeling fine-scale boundary details and long-range contextual information, while maintaining efficiency suitable for resource-constrained platforms.
+
 ## Download
 Click on the green button "clone or download". Then, unzip it on your computer.
 
